@@ -54,6 +54,7 @@ It will be good if you don't have a specific path to which to create or clone th
 ## The easy way 👍
 We are going to define a path where our projects are going to live and create a .gitconfig file for each user profile, as many as we need.
 
+```
 ~
 ├── .gitconfig <-- global
 └── Developer/
@@ -67,6 +68,7 @@ We are going to define a path where our projects are going to live and create a 
        ├── project_2/
        ├── project_#/
        └── .gitconfig <-- company
+```
 
 ## Personal
 
