@@ -1,4 +1,4 @@
-#How to use multiple users with Git
+# How to use multiple users with Git
 
 If you are working with multiple git users, for example, one for personal projects and another for a company.
 
